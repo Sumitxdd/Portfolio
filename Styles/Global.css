@@ -1,0 +1,21 @@
+/* styles/global.css */
+
+/* Reset some default styles for consistency */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set a default font family and font size */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set a background color for the entire body */
+  body {
+    background-color: #f7f7f7;
+  }
+  
+  /* Add other global styles here */
+  
